@@ -1,6 +1,6 @@
 ![](https://img.shields.io/badge/Microverse-blueviolet)
 
-# Project Name
+# Hello microverse
 
 > This was created for microverse's activity and also I created the repository "hello_microverse"
 
