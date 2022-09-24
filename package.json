@@ -1,0 +1,27 @@
+{
+  "name": "hello_microverse",
+  "version": "1.0.0",
+  "description": "<<<<<<< HEAD\r # hello_microverse\r In this pull request, I was able to:\r      -  Set up the linters.\r      -  Create index.html file and add # Hello Microverse # to the `h1` tag.\r      -  Create style.css and style the content of the `h1` tag inside it.\r      -   Create `.gitignore` file and add test.md and node-modules to ignore them.\r =======\r ![](https://img.shields.io/badge/Microverse-blueviolet)",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/elad237/hello_microverse.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/elad237/hello_microverse/issues"
+  },
+  "homepage": "https://github.com/elad237/hello_microverse#readme",
+  "devDependencies": {
+    "hint": "^7.1.2",
+    "stylelint": "^13.13.1",
+    "stylelint-config-standard": "^21.0.0",
+    "stylelint-csstree-validator": "^1.9.0",
+    "stylelint-scss": "^3.21.0"
+  }
+}
